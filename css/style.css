@@ -1,0 +1,46 @@
+    body{
+        margin: 0;
+    }
+
+    .card{
+        width: 500px; 
+        height: fit-content; 
+        background-color: #de3163; 
+        margin: 10px;
+        font-family: cursive;
+    }
+    
+
+    .borda-card{
+        border: 3px solid rgb(255, 0, 0);
+    }
+
+    .perfil{
+        width: 100px; 
+        height: 100px; 
+        background-color: 
+        #c8a2c8;
+    }
+
+    .icon{
+        width: 100%; 
+        height: 100%;
+    }
+
+    h1{
+        color: #ffdab9;
+    }
+
+    p{
+        color: #c0c0c0;
+    }
+
+    span{
+        color: black;
+    }
+
+
+    /* 
+     ctrl + ; : comentário
+    . abre div
+     */
